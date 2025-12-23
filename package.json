@@ -1,6 +1,7 @@
 {
   "name": "fiji-taxi-app",
   "private": true,
+  "type": "commonjs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
